@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 250,
+      "quantity": 36,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 1,
+      "name": "Souris",
+      "price": 230,
+      "quantity": 152,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "computer",
+      "price": "157",
+      "quantity": "20",
+      "selected": true,
+      "available": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "CD",
+      "price": "257",
+      "quantity": "47",
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "aa",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": false,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "aaaxxx",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
